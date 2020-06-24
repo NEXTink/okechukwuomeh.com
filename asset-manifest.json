@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.889518ac.chunk.css",
+    "main.js": "/static/js/main.cfe976d1.chunk.js",
+    "main.js.map": "/static/js/main.cfe976d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18ad118e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18ad118e.js.map",
+    "static/js/2.392baf75.chunk.js": "/static/js/2.392baf75.chunk.js",
+    "static/js/2.392baf75.chunk.js.map": "/static/js/2.392baf75.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.94c44bb0d5915909b3a1dadac0703129.js": "/precache-manifest.94c44bb0d5915909b3a1dadac0703129.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.889518ac.chunk.css.map": "/static/css/main.889518ac.chunk.css.map",
+    "static/js/2.392baf75.chunk.js.LICENSE.txt": "/static/js/2.392baf75.chunk.js.LICENSE.txt",
+    "static/media/Register.png": "/static/media/Register.15d6661d.png",
+    "static/media/astrialawTest_home.png": "/static/media/astrialawTest_home.54526a1d.png",
+    "static/media/login.png": "/static/media/login.b29f578e.png",
+    "static/media/me.jpg": "/static/media/me.0dd11745.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18ad118e.js",
+    "static/js/2.392baf75.chunk.js",
+    "static/css/main.889518ac.chunk.css",
+    "static/js/main.cfe976d1.chunk.js"
+  ]
+}
